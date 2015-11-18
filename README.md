@@ -23,4 +23,8 @@ Characters of trailing whitespace  :6 characters.
 Total unnecessary whitespace       :21 characters.
 
 
+How to Get started:
+./whitespace.rb -h
+
+
 It's for command line use, developed on linux, should work on Windows and Mac.
