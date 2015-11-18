@@ -5,7 +5,8 @@ Usually the whitespace it finds can be safely removed from a file, without impac
 
 An example output might look like this:
 
-```Leading White Space :1: <HEAD>:
+```
+Leading White Space :1: <HEAD>:
 Leading White Space :1: <TITLE> Hello </TITLE>:
 Leading White Space :1: </HEAD>   :
 Trailing White Space:3: </HEAD>   :
@@ -18,7 +19,8 @@ All White Space     :1::
 All White Space     :7:      :
 ```
 
-```Characters in whitespace only lines:9 characters.
+```
+Characters in whitespace only lines:9 characters.
 Characters of leading whitespace   :6 characters.
 Characters of trailing whitespace  :6 characters.
 Total unnecessary whitespace       :21 characters.
