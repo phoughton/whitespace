@@ -17,9 +17,7 @@ Trailing White Space:3:Trailing Only   :
 Leading White Space :1: </BODY>:
 All White Space     :1::
 All White Space     :7:      :
-```
 
-```
 Characters in whitespace only lines:9 characters.
 Characters of leading whitespace   :6 characters.
 Characters of trailing whitespace  :6 characters.
